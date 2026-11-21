@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/LakiyaDev"><img src="https://komarev.com/ghpvc/?username=LakiyaDev&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/></a>
-  <a href="https://github.com/LakiyaDev?tab=followers"><img src="https://img.shields.io/github/followers/LakiyaDev?label=Followers&style=for-the-badge&color=1e3a5a&logo=github" alt="GitHub followers"/></a>
+  <a href="https://github.com/SadeepaLakZan?tab=followers"><img src="https://img.shields.io/github/followers/SadeepaLakZan?label=Followers&style=for-the-badge&color=1e3a5a&logo=github" alt="GitHub followers"/></a>
 </p>
 
 ---
