@@ -94,10 +94,12 @@ interests:
 ---
 <h3 align="center"> 📊 GitHub Analytics </h3>
 
-<p align="center">
-    <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakiyaDev&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LakiyaDev&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<div align="center">
+  <a href="https://github.com/SadeepaLakZan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadeepaLakZan&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaLakZan&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
+</div>
 
 ---
 <h3 align="center"> 🤝 Connect With Me </h3>
