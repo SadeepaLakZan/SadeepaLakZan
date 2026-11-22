@@ -96,16 +96,45 @@ interests:
 
 
 <div align="center">
+
+  <!-- Row 1: GitHub Stats + Top Languages -->
   <a href="https://github.com/SadeepaLakZan">
     <img
       height="180em"
+      width="49.5%"
       src="https://github-readme-stats.vercel.app/api?username=SadeepaLakZan&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaLakZan&layout=compact&langs_count=7&theme=algolia"
+      alt="GitHub Statistics"
     />
   </a>
+  <a href="https://github.com/SadeepaLakZan">
+    <img
+      height="180em"
+      width="49.5%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaLakZan&layout=compact&langs_count=7&theme=algolia"
+      alt="Top Languages"
+    />
+  </a>
+
+  <br/>
+
+  <!-- Row 2: Profile Summary + Contribution Streak -->
+  <a href="https://github.com/SadeepaLakZan">
+    <img
+      height="180em"
+      width="49.5%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadeepaLakZan&theme=algolia&hide_border=true"
+      alt="GitHub Profile Summary"
+    />
+  </a>
+  <a href="https://github.com/SadeepaLakZan">
+    <img
+      height="180em"
+      width="49.5%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=SadeepaLakZan&theme=algolia&hide_border=true"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
+
 </div>
 
 
