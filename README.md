@@ -94,12 +94,20 @@ interests:
 ---
 <h3 align="center"> 📊 GitHub Analytics </h3>
 
+
 <div align="center">
   <a href="https://github.com/SadeepaLakZan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadeepaLakZan&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaLakZan&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=SadeepaLakZan&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaLakZan&layout=compact&langs_count=7&theme=algolia"
+    />
   </a>
 </div>
+
 
 ---
 <h3 align="center"> 🤝 Connect With Me </h3>
